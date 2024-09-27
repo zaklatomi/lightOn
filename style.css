@@ -1,0 +1,30 @@
+.light {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 3px;
+}
+
+.off {
+    background-color: grey;
+}
+
+.on {
+    background-color: #cfff04;
+}
+
+.tartalom {
+    display: grid;
+    grid-template-columns: 60px 60px 60px;
+}
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container{
+
+    text-align: center;
+}

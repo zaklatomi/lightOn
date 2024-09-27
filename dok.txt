@@ -1,0 +1,25 @@
+MVC
+
+view
+
+Lámpa (1 lámpa, esemény "kapcsol")
+
+Játéktér(sok lámpa)
+
+model
+
+#lista[true,false,false...9]
+
+#aktIndex
+
+metodusok:
+
+getLista()
+
+szomszédokSwitch(id) beallitja az aktIndexet, a lista aktIndexedik elemét beállitja az ellenkezojere, és a szomszedjait
+
+controller
+
+peldanyositjuk a jatekteret, a modellt és feliratkozunk az esemenykezelokre (kapcsol) 
+
+a kapcsol esemeny
