@@ -1,7 +1,7 @@
 //kap egy listát a konstruktorában(lista,szuloelem)
 //példányositja a lampakat (9db)
 
-import Light from "Light.js";
+import Light from "./Light.js";
 
 export default class GameZone {
     #list = []
