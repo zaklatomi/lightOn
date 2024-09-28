@@ -2,8 +2,8 @@
 //feliratkozik a Kapcsol sajatesemenyunkre
 //itt fogja meghivogatni a modell tagfuggvenyeit
 
-import LightOnModel from "./model/LightOnModel.js";
-import GameZone from "./view/GameZone.js";
+import LightOnModel from "../model/LightOnModel.js";
+import GameZone from "../view/GameZone.js";
 
 export default class LightOnController {
   constructor() {
